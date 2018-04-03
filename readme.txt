@@ -9,3 +9,5 @@ mine dev branches
 git branch test
 
 on-off
+
+stash
